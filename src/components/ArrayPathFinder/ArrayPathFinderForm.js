@@ -26,7 +26,6 @@ class ArrayPathFinderForm extends Component {
         } catch (ex) {
             this.props.failedToCalculate();
         }
-        
     }
 
     render() {
